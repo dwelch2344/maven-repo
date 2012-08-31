@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>co.ntier.mongo</groupId>
+  <artifactId>tomcat-session-manager</artifactId>
+  <version>1.0.2-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20120831.001731</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20120831001731</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.2-20120831.001731-1</value>
+        <updated>20120831001731</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.2-20120831.001731-1</value>
+        <updated>20120831001731</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
