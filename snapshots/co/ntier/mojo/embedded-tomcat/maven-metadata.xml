@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>co.ntier.mojo</groupId>
+  <artifactId>embedded-tomcat</artifactId>
+  <versioning>
+    <latest>1.0.0-SNAPSHOT</latest>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20121029232854</lastUpdated>
+  </versioning>
+</metadata>
