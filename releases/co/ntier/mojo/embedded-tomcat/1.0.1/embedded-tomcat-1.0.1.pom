@@ -5,7 +5,7 @@
 	<groupId>co.ntier.mojo</groupId>
 	<artifactId>embedded-tomcat</artifactId>
 	<packaging>maven-plugin</packaging>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.1</version>
 
 	<name>Embedded Tomcat Mojo</name>
 	<description>A plugin that combined embedded Tomcat with Mongo Session Management</description>
