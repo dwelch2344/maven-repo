@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>co.ntier.archetype</groupId>
+  <artifactId>servlet-archetype</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130510141208</lastUpdated>
+  </versioning>
+</metadata>
