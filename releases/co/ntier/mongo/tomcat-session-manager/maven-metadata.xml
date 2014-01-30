@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>co.ntier.mongo</groupId>
+  <artifactId>tomcat-session-manager</artifactId>
+  <versioning>
+    <release>1.0.2-RELEASE</release>
+    <versions>
+      <version>1.0.2-RELEASE</version>
+    </versions>
+    <lastUpdated>20140130043342</lastUpdated>
+  </versioning>
+</metadata>
